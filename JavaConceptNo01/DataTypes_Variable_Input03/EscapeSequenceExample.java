@@ -1,4 +1,4 @@
-package JavaNote01.Three;
+package JavaConceptNo01.DataTypes_Variable_Input03;
 public class EscapeSequenceExample {
     public static void main(String[] args) {
 
@@ -26,7 +26,6 @@ public class EscapeSequenceExample {
         // 8. Form Feed (\f): Rarely used, moves to the next page (not visible in console output)
         System.out.println("Form Feed\fExample");
 
-        // 9. Unicode (\u): Prints Unicode character
-        System.out.println("Unicode example: \u2764"); // ❤ heart symbol
+        
     }
 }
